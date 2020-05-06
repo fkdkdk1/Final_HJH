@@ -14,7 +14,7 @@
 		<org.slf4j-version>1.6.6</org.slf4j-version>
 	</properties>
 	<!-- ojdbc6 사용하기 위한 Repository -->
-	<repositories>
+	<repositories> 
 		<repository>
 			<id>datanucleus</id>
 			<url>http://www.datanucleus.org/downloads/maven2/</url>
